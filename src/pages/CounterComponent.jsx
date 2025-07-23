@@ -1,5 +1,4 @@
-import useCounter from "../hooks/UseCounterHook.jsx";
-
+import useCounter from '../hooks/useCounterHook'
 const CounterComponent = () => {
 
     const { count, increment, decrement, reset } = useCounter()
