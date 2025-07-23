@@ -16,8 +16,8 @@ function App() {
       {/* <UseCallBackPage /> */}
       {/* <UseRefPage /> */}
       {/* <PaintFlashing /> */}
-      {/* <CounterComponent /> */}
-      <Button label={'Click Me'} onClick={() => { console.log('logged') }} />
+      <CounterComponent />
+      {/* <Button label={'Click Me'} onClick={() => { console.log('logged') }} /> */}
     </>
   )
 }

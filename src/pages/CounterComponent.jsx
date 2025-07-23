@@ -1,4 +1,4 @@
-import useCounter from "../hooks/UseCounterHook";
+import useCounter from "../hooks/UseCounterHook.jsx";
 
 const CounterComponent = () => {
 
